@@ -1,6 +1,7 @@
 # [Проект «Список для почтовой рассылки»](https://react-mailing.vercel.app)
 
 [mailing-ten.vercel.app/](https://mailing-ten.vercel.app/) </br></br>
+<img width="200" alt="Desktop version" src="https://github.com/user-attachments/assets/86a8c905-c172-4135-925f-3a2c387fb789" /></br></br>
 
 <strong>Pet-проект - подготовка списка для почтовой рассылки на React</strong></br>
 

@@ -1,6 +1,6 @@
 # [Проект «Список для почтовой рассылки»](https://react-mailing.vercel.app)
 
-[react-mailing.vercel.app](https://react-mailing.vercel.app) </br></br>
+[mailing-ten.vercel.app/](https://mailing-ten.vercel.app/) </br></br>
 
 <strong>Pet-проект - подготовка списка для почтовой рассылки на React</strong></br>
 
@@ -18,8 +18,8 @@
 - React Content Loader для Skeleton-анимации
 - Адаптивная верстка для Desktop, Tablet и Mobile
 
-### [Главная страница](https://react-mailing.vercel.app)
+### [Главная страница](https://mailing-ten.vercel.app/)
 | Main view | Loading |
 |:---------------:|:--------------:|
-| <img width="300" alt="Desktop version" src="https://github.com/user-attachments/assets/d8eb2bbf-48e0-480c-9fb7-6ff8bc768e46" /> | <img width="200" alt="Tablet version" src="https://github.com/user-attachments/assets/77327186-2d61-4dd9-a4be-d010c350a750" /> |
+| <img width="300" alt="Desktop version" src="https://github.com/user-attachments/assets/86a8c905-c172-4135-925f-3a2c387fb789" /> | <img width="300" alt="Tablet version" src="https://github.com/user-attachments/assets/36bdaeef-a46e-4933-b9b5-23b3e76614c2" /> |
 
